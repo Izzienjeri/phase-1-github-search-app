@@ -11,3 +11,14 @@
 ul {
   list-style: none;
 }
+form {
+  display: block;
+  margin-top: 0em;
+}
+body {
+  background-color: rgb(57, 182, 19);
+}
+input {
+  background-color: black;
+  color: white;
+}
